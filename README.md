@@ -15,7 +15,7 @@ This project is a modern note-taking application developed using Jetpack Compose
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/samebrave/MyFabunotesApp.git
+   git clone https://github.com/samebrave/Fabunotes.git
    ```
 
 2. **Install Dependencies**:
