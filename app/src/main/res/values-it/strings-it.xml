@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fabunotes</string>
+
+    <!-- General -->
+    <string name="cancel">Annulla</string>
+    <string name="save">Salva</string>
+    <string name="delete">Elimina</string>
+    <string name="edit">Modifica</string>
+    <string name="back">Indietro</string>
+    <string name="add">Aggiungi</string>
+    <string name="title">Titolo</string>
+    <string name="content">Contenuto</string>
+
+
+    <!-- Categories -->
+    <string name="categories">Categorie</string>
+    <string name="add_category">Aggiungi Categoria</string>
+    <string name="category_name">Nome Categoria</string>
+    <string name="all_notes">Tutte le Note</string>
+    <string name="favorite_notes">Note Preferite</string>
+    <string name="category_options">Opzioni Categoria</string>
+    <string name="update">Aggiorna</string>
+
+    <!-- Notes -->
+    <string name="notes">Note</string>
+    <string name="add_note">Aggiungi Nota</string>
+    <string name="edit_note">Modifica Nota</string>
+    <string name="delete_note">Elimina Nota</string>
+    <string name="note_title">Titolo (opzionale)</string>
+    <string name="note_details">Dettagli Nota</string>
+    <string name="note_content">Contenuto della nota</string>
+    <string name="title_generated_from_content">Il titolo sarà generato dal contenuto</string>
+    <string name="delete_note_confirmation">Sei sicuro di voler eliminare questa nota?</string>
+    <string name="note_copied_to_clipboard">Nota copiata negli appunti</string>
+    <string name="pinned">Fissato</string>
+    <string name="summarize_text">Riassumi testo</string>
+    <string name="paste_text_to_summarize">Incolla il testo che vuoi riassumere:</string>
+    <string name="summarize">Riassumi</string>
+    <string name="simplify_text">Semplifica testo</string>
+    <string name="paste_text_to_simplify">Incolla il testo che vuoi semplificare:</string>
+    <string name="simplify">Semplifica</string>
+    <string name="translate_text">Traduci testo</string>
+    <string name="paste_text_to_translate">Incolla il testo che vuoi tradurre:</string>
+    <string name="translate">Traduci</string>
+    <string name="select_target_language">Seleziona la lingua di destinazione</string>
+    <string name="generate_recipe">Genera ricetta</string>
+    <string name="enter_ingredients">Inserisci gli ingredienti che hai:</string>
+    <string name="generate_route">Genera Itinerario</string>
+    <string name="enter_destination">Inserisci la tua destinazione:</string>
+    <string name="enter_days">Inserisci il numero di giorni:</string>
+    <string name="get_recommendation">Ottieni Raccomandazione</string>
+    <string name="select_type">Seleziona Tipo:</string>
+    <string name="select_genre">Seleziona Genere:</string>
+    <string name="additional_details">Dettagli Aggiuntivi (Opzionale):</string>
+
+    <!-- Search -->
+    <string name="search">Cerca</string>
+    <string name="search_notes">Cerca note...</string>
+
+    <!-- Settings -->
+    <string name="settings">Impostazioni</string>
+    <string name="appearance">Aspetto</string>
+    <string name="theme">Tema</string>
+    <string name="data_management">Gestione Dati</string>
+    <string name="backup_notes">Backup Note</string>
+    <string name="create_backup">Crea un backup di tutte le note</string>
+    <string name="restore_notes">Ripristina Note</string>
+    <string name="restore_from_backup">Ripristina le note da un backup</string>
+    <string name="select_theme">Seleziona Tema</string>
+    <string name="select_language">Seleziona Lingua</string>
+    <string name="restart_required">Riavvio Richiesto</string>
+    <string name="restart_app_message">È necessario riavviare l\'applicazione affinché il cambio di lingua abbia effetto.</string>
+    <string name="ok">OK</string>
+
+    <!-- AI Features -->
+    <string name="generate_ai_note">Genera Nota AI</string>
+    <string name="enter_prompt">Inserisci il tuo prompt</string>
+    <string name="generate">Genera</string>
+    <string name="ai_note_generation_failed">Impossibile generare la nota AI: %1$s</string>
+
+    <!-- Speech to Text -->
+    <string name="speech_to_text">Da Voce a Testo</string>
+    <string name="speak_to_add_text">Parla per aggiungere testo alla tua nota</string>
+
+    <!-- Misc -->
+    <string name="toggle_view_mode">Cambia modalità di visualizzazione</string>
+    <string name="toggle_favorite">Attiva/Disattiva Preferito</string>
+    <string name="toggle_pin">Attiva/Disattiva Fissaggio</string>
+    <string name="share">Condividi</string>
+</resources>

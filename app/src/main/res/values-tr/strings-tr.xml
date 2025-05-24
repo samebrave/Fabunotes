@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fabunotes</string>
+
+    <!-- General -->
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil</string>
+    <string name="edit">Düzenle</string>
+    <string name="back">Geri</string>
+    <string name="add">Ekle</string>
+    <string name="title">Başlık</string>
+    <string name="content">İçerik</string>
+
+
+    <!-- Categories -->
+    <string name="categories">Kategoriler</string>
+    <string name="add_category">Kategori Ekle</string>
+    <string name="category_name">Kategori Adı</string>
+    <string name="all_notes">Tüm Notlar</string>
+    <string name="favorite_notes">Favori Notlar</string>
+    <string name="category_options">Kategori Seçenekleri</string>
+    <string name="update">Güncelle</string>
+
+    <!-- Notes -->
+    <string name="notes">Notlar</string>
+    <string name="add_note">Not Ekle</string>
+    <string name="edit_note">Notu Düzenle</string>
+    <string name="delete_note">Notu Sil</string>
+    <string name="note_title">Başlık (isteğe bağlı)</string>
+    <string name="note_details">Not Detayları</string>
+    <string name="note_content">Not içeriği</string>
+    <string name="title_generated_from_content">Başlık içerikten oluşturulacak</string>
+    <string name="delete_note_confirmation">Bu notu silmek istediğinizden emin misiniz?</string>
+    <string name="note_copied_to_clipboard">Not panoya kopyalandı</string>
+    <string name="pinned">Sabitlendi</string>
+    <string name="summarize_text">Metni Özetle</string>
+    <string name="paste_text_to_summarize">Özetlemek istediğiniz metni yapıştırın:</string>
+    <string name="summarize">Özetle</string>
+    <string name="simplify_text">Metni Basitleştir</string>
+    <string name="paste_text_to_simplify">Basitleştirmek istediğiniz metni yapıştırın:</string>
+    <string name="simplify">Basitleştir</string>
+    <string name="translate_text">Metni Çevir</string>
+    <string name="paste_text_to_translate">Çevirmek istediğiniz metni yapıştırın:</string>
+    <string name="translate">Çevir</string>
+    <string name="select_target_language">Hedef dili seçin</string>
+    <string name="generate_recipe">Tarif oluştur</string>
+    <string name="enter_ingredients">Elinizde olan malzemeleri girin:</string>
+    <string name="generate_route">Rota Oluştur</string>
+    <string name="enter_destination">Varış noktanızı girin:</string>
+    <string name="enter_days">Gün sayısını girin:</string>
+    <string name="get_recommendation">Öneri Al</string>
+    <string name="select_type">Tür Seç:</string>
+    <string name="select_genre">Tarz Seç:</string>
+    <string name="additional_details">Ek Detaylar (İsteğe Bağlı):</string>
+
+    <!-- Search -->
+    <string name="search">Ara</string>
+    <string name="search_notes">Notlarda ara...</string>
+
+    <!-- Settings -->
+    <string name="settings">Ayarlar</string>
+    <string name="appearance">Görünüm</string>
+    <string name="theme">Tema</string>
+    <string name="data_management">Veri Yönetimi</string>
+    <string name="backup_notes">Notları Yedekle</string>
+    <string name="create_backup">Tüm notların yedeğini oluştur</string>
+    <string name="restore_notes">Notları Geri Yükle</string>
+    <string name="restore_from_backup">Notları yedekten geri yükle</string>
+    <string name="select_theme">Tema Seç</string>
+    <string name="select_language">Dil Seç</string>
+    <string name="restart_required">Yeniden Başlatma Gerekli</string>
+    <string name="restart_app_message">Dil değişikliğinin etkili olması için uygulamayı yeniden başlatmanız gerekiyor.</string>
+    <string name="ok">Tamam</string>
+
+
+    <!-- AI Features -->
+    <string name="generate_ai_note">Yapay Zeka Notu Oluştur</string>
+    <string name="enter_prompt">İsteğinizi girin</string>
+    <string name="generate">Oluştur</string>
+    <string name="ai_note_generation_failed">Yapay zeka notu oluşturulamadı: %1$s</string>
+
+    <!-- Speech to Text -->
+    <string name="speech_to_text">Konuşmayı Metne Çevir</string>
+    <string name="speak_to_add_text">Notunuza metin eklemek için konuşun</string>
+
+    <!-- Misc -->
+    <string name="toggle_view_mode">Görünüm modunu değiştir</string>
+    <string name="toggle_favorite">Favori durumunu değiştir</string>
+    <string name="toggle_pin">Sabitleme durumunu değiştir</string>
+    <string name="share">Paylaş</string>
+</resources>

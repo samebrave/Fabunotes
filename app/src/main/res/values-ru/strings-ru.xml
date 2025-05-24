@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fabunotes</string>
+
+    <!-- General -->
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="back">Назад</string>
+    <string name="add">Добавить</string>
+    <string name="title">Заголовок</string>
+    <string name="content">Cодержание</string>
+
+    <!-- Categories -->
+    <string name="categories">Категории</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="category_name">Название категории</string>
+    <string name="all_notes">Все заметки</string>
+    <string name="favorite_notes">Избранные заметки</string>
+    <string name="category_options">Параметры категории</string>
+    <string name="update">Обновить</string>
+
+    <!-- Notes -->
+    <string name="notes">Заметки</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="edit_note">Редактировать заметку</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="note_title">Заголовок (необязательно)</string>
+    <string name="note_details">Детали заметки</string>
+    <string name="note_content">Содержание заметки</string>
+    <string name="title_generated_from_content">Заголовок будет сгенерирован из содержания</string>
+    <string name="delete_note_confirmation">Вы уверены, что хотите удалить эту заметку?</string>
+    <string name="note_copied_to_clipboard">Заметка скопирована в буфер обмена</string>
+    <string name="pinned">Закреплено</string>
+    <string name="summarize_text">Обобщить текст</string>
+    <string name="paste_text_to_summarize">Вставьте текст, который хотите обобщить:</string>
+    <string name="summarize">Обобщить</string>
+    <string name="simplify_text">Упростить текст</string>
+    <string name="paste_text_to_simplify">Вставьте текст, который хотите упростить:</string>
+    <string name="simplify">Упростить</string>
+    <string name="translate_text">Перевести текст</string>
+    <string name="paste_text_to_translate">Вставьте текст, который хотите перевести:</string>
+    <string name="translate">Перевести</string>
+    <string name="select_target_language">Выберите целевой язык</string>
+    <string name="generate_recipe">Создать рецепт</string>
+    <string name="enter_ingredients">Введите имеющиеся у вас ингредиенты:</string>
+    <string name="generate_route">Создать маршрут</string>
+    <string name="enter_destination">Введите пункт назначения:</string>
+    <string name="enter_days">Введите количество дней:</string>
+    <string name="get_recommendation">Получить рекомендацию</string>
+    <string name="select_type">Выберите тип:</string>
+    <string name="select_genre">Выберите жанр:</string>
+    <string name="additional_details">Дополнительные детали (необязательно):</string>
+
+    <!-- Search -->
+    <string name="search">Поиск</string>
+    <string name="search_notes">Поиск заметок...</string>
+
+    <!-- Settings -->
+    <string name="settings">Настройки</string>
+    <string name="appearance">Внешний вид</string>
+    <string name="theme">Тема</string>
+    <string name="data_management">Управление данными</string>
+    <string name="backup_notes">Резервное копирование заметок</string>
+    <string name="create_backup">Создать резервную копию всех заметок</string>
+    <string name="restore_notes">Восстановить заметки</string>
+    <string name="restore_from_backup">Восстановить заметки из резервной копии</string>
+    <string name="select_theme">Выбрать тему</string>
+    <string name="select_language">Выбрать язык</string>
+    <string name="restart_required">Требуется перезапуск</string>
+    <string name="restart_app_message">Вам необходимо перезапустить приложение, чтобы изменение языка вступило в силу.</string>
+    <string name="ok">ОК</string>
+
+    <!-- AI Features -->
+    <string name="generate_ai_note">Сгенерировать ИИ-заметку</string>
+    <string name="enter_prompt">Введите ваш запрос</string>
+    <string name="generate">Сгенерировать</string>
+    <string name="ai_note_generation_failed">Не удалось сгенерировать ИИ-заметку: %1$s</string>
+
+    <!-- Speech to Text -->
+    <string name="speech_to_text">Речь в текст</string>
+    <string name="speak_to_add_text">Говорите, чтобы добавить текст в вашу заметку</string>
+
+    <!-- Misc -->
+    <string name="toggle_view_mode">Переключить режим просмотра</string>
+    <string name="toggle_favorite">Переключить избранное</string>
+    <string name="toggle_pin">Переключить закрепление</string>
+    <string name="share">Поделиться</string>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fabunotes</string>
+
+    <!-- General -->
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="delete">Löschen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="back">Zurück</string>
+    <string name="add">Hinzufügen</string>
+    <string name="title">Titel</string>
+    <string name="content">Inhalt</string>
+
+
+    <!-- Categories -->
+    <string name="categories">Kategorien</string>
+    <string name="add_category">Kategorie hinzufügen</string>
+    <string name="category_name">Kategoriename</string>
+    <string name="all_notes">Alle Notizen</string>
+    <string name="favorite_notes">Favorisierte Notizen</string>
+    <string name="category_options">Kategorieoptionen</string>
+    <string name="update">Aktualisieren</string>
+
+    <!-- Notes -->
+    <string name="notes">Notizen</string>
+    <string name="add_note">Notiz hinzufügen</string>
+    <string name="edit_note">Notiz bearbeiten</string>
+    <string name="delete_note">Notiz löschen</string>
+    <string name="note_title">Titel (optional)</string>
+    <string name="note_details">Notizdetails</string>
+    <string name="note_content">Notizinhalt</string>
+    <string name="title_generated_from_content">Titel wird aus dem Inhalt generiert</string>
+    <string name="delete_note_confirmation">Möchten Sie diese Notiz wirklich löschen?</string>
+    <string name="note_copied_to_clipboard">Notiz in die Zwischenablage kopiert</string>
+    <string name="pinned">Angeheftet</string>
+    <string name="summarize_text">Text zusammenfassen</string>
+    <string name="paste_text_to_summarize">Fügen Sie den zu zusammenfassenden Text ein:</string>
+    <string name="summarize">Zusammenfassen</string>
+    <string name="simplify_text">Text vereinfachen</string>
+    <string name="paste_text_to_simplify">Fügen Sie den zu vereinfachenden Text ein:</string>
+    <string name="simplify">Vereinfachen</string>
+    <string name="translate_text">Text übersetzen</string>
+    <string name="paste_text_to_translate">Fügen Sie den zu übersetzenden Text ein:</string>
+    <string name="translate">Übersetzen</string>
+    <string name="select_target_language">Zielsprache auswählen</string>
+    <string name="generate_recipe">Rezept generieren</string>
+    <string name="enter_ingredients">Geben Sie die vorhandenen Zutaten ein:</string>
+    <string name="generate_route">Route generieren</string>
+    <string name="enter_destination">Geben Sie Ihr Reiseziel ein:</string>
+    <string name="enter_days">Geben Sie die Anzahl der Tage ein:</string>
+    <string name="get_recommendation">Empfehlung erhalten</string>
+    <string name="select_type">Typ auswählen:</string>
+    <string name="select_genre">Genre auswählen:</string>
+    <string name="additional_details">Zusätzliche Details (Optional):</string>
+
+    <!-- Search -->
+    <string name="search">Suchen</string>
+    <string name="search_notes">Notizen suchen...</string>
+
+    <!-- Settings -->
+    <string name="settings">Einstellungen</string>
+    <string name="appearance">Erscheinungsbild</string>
+    <string name="theme">Thema</string>
+    <string name="data_management">Datenverwaltung</string>
+    <string name="backup_notes">Notizen sichern</string>
+    <string name="create_backup">Backup aller Notizen erstellen</string>
+    <string name="restore_notes">Notizen wiederherstellen</string>
+    <string name="restore_from_backup">Notizen aus einem Backup wiederherstellen</string>
+    <string name="select_theme">Thema auswählen</string>
+    <string name="select_language">Sprache auswählen</string>
+    <string name="restart_required">Neustart erforderlich</string>
+    <string name="restart_app_message">Sie müssen die Anwendung neu starten, damit die Sprachänderung wirksam wird.</string>
+    <string name="ok">OK</string>
+
+    <!-- AI Features -->
+    <string name="generate_ai_note">KI-Notiz generieren</string>
+    <string name="enter_prompt">Geben Sie Ihren Prompt ein</string>
+    <string name="generate">Generieren</string>
+    <string name="ai_note_generation_failed">KI-Notiz konnte nicht generiert werden: %1$s</string>
+
+    <!-- Speech to Text -->
+    <string name="speech_to_text">Sprache zu Text</string>
+    <string name="speak_to_add_text">Sprechen Sie, um Text zu Ihrer Notiz hinzuzufügen</string>
+
+    <!-- Misc -->
+    <string name="toggle_view_mode">Ansichtsmodus umschalten</string>
+    <string name="toggle_favorite">Favorit umschalten</string>
+    <string name="toggle_pin">Anheften umschalten</string>
+    <string name="share">Teilen</string>
+</resources>
