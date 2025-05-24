@@ -38,6 +38,12 @@ When the application opens, click the "New Category" button on the main screen t
 
 Manage your notes smarter with this note-taking application!
 
+<a href="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/8.png" target="_blank">
+    <img src="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/8.png" alt="Görsel 1" width="300" />
+</a>
+<a href="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/10.png" target="_blank">
+    <img src="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/10.png" alt="Görsel 1" width="300" />
+</a>  
 <a href="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/1.png" target="_blank">
     <img src="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/1.png" alt="Görsel 1" width="300" />
 </a>
@@ -62,11 +68,6 @@ Manage your notes smarter with this note-taking application!
 <a href="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/7.png" target="_blank">
     <img src="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/7.png" alt="Görsel 1" width="300" />
 </a>
-<a href="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/8.png" target="_blank">
-    <img src="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/8.png" alt="Görsel 1" width="300" />
-</a>
-<a href="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/10.png" target="_blank">
-    <img src="https://github.com/samebrave/MyFabunotesApp/blob/main/app/src/main/res/drawable/10.png" alt="Görsel 1" width="300" />
-</a>  
+
 
 
